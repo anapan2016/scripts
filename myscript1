@@ -1,0 +1,8 @@
+#!/bin/bash
+echo -e "What is your name? -->\c"
+read Name
+echo "Hi $NAME"
+#!/bin/bash
+echo -e "What is your name? --> \c"
+read NAME
+echo "Hello $NAME"
